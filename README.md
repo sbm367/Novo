@@ -1,8 +1,8 @@
 # Welcome to Novo Product Labs
 <ul style="list-style-type:circle">
-### <li>Napkin-sketch to $222, 861 in pre-orders in two months</li>
-### <li>Idea to trade show floor in two weeks</li>
-### <li>Noble cause to multi-million dollar startup in three months</li>
+  <li>Napkin-sketch to $222, 861 in pre-orders in two months</li>
+  <li>Idea to trade show floor in two weeks</li>
+  <li>Noble cause to multi-million dollar startup in three months</li>
   <li>Out-dated medical device to innovative, FDA approved device in six months</li>
 </ul>
 These are the results that Novo Product Labs has achieved for our clients since we launched three years ago- all the while being half the cost and twice as fast as our competitors. We have worked with dozens of clients across numerous industries so any product is fair game. Check out the full story of some of our clients below and contact us at the bottom of the page if you have a product that could take over the world!
