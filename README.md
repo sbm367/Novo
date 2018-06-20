@@ -9,6 +9,8 @@ These are the results that Novo Product Labs has achieved for our clients since 
 
 ### NoBowl Feeding System: Napkin-sketch to $222, 861 in pre-orders in two months
 
+<img src="http://www.novoproductlabs.com/images/nb.jpg?crc=154164162" alt="Smiley face" height="42" width="42">
+
 Veterinarian Dr. Liz Bales came to Novo Product Labs after a frustrating experience spending twelve months trying to get her cat feeding product from an idea to a marketable mass-manufactured item. If the pace continued as it was, it was going to take two to three years and over a million dollars to get the job done!
 
 Within two months of partnering with NPL, the system had been taken through over 30 iterations and was ready for testing. 200 samples were manufactured and given to volunteer “trialists” to test out. After receiving overwhelmingly positive feedback, the System went up on Kickstarter (and later Indiegogo) and did $222,861 in pre-orders!
