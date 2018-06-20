@@ -5,6 +5,8 @@
 ### Noble cause to multi-million dollar startup in three months
 ### Out-dated medical device to innovative, FDA approved device in six months
 
+logo:[http://www.novoproductlabs.com/images/logo%20-%20high%20quality%20transparent437x115.png?crc=3899388513]
+
 These are the results that Novo Product Labs has achieved for our clients since we launched three years ago- all the while being half the cost and twice as fast as our competitors. We have worked with dozens of clients across numerous industries so any product is fair game. Check out the full story of some of our clients below and contact us at the bottom of the page if you have a product that could take over the world!
 
 ### NoBowl Feeding System: Napkin-sketch to $222, 861 in pre-orders in two months
